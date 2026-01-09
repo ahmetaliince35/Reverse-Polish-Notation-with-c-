@@ -1,0 +1,181 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ahmetali\\source\\repos\\Odev2-RNP_2023280143\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BC550E0F-462C-4343-B1B4-597B450C1AEA}|Odev2-RNP_2023280143\\Odev2-RNP_2023280143.csproj|c:\\users\\ahmetali\\source\\repos\\odev2-rnp_2023280143\\odev2-rnp_2023280143\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC550E0F-462C-4343-B1B4-597B450C1AEA}|Odev2-RNP_2023280143\\Odev2-RNP_2023280143.csproj|solutionrelative:odev2-rnp_2023280143\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC550E0F-462C-4343-B1B4-597B450C1AEA}|Odev2-RNP_2023280143\\Odev2-RNP_2023280143.csproj|C:\\Users\\ahmetali\\source\\repos\\Odev2-RNP_2023280143\\odev2-rnp_2023280143\\calculatorgui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC550E0F-462C-4343-B1B4-597B450C1AEA}|Odev2-RNP_2023280143\\Odev2-RNP_2023280143.csproj|solutionrelative:odev2-rnp_2023280143\\calculatorgui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC550E0F-462C-4343-B1B4-597B450C1AEA}|Odev2-RNP_2023280143\\Odev2-RNP_2023280143.csproj|C:\\Users\\ahmetali\\source\\repos\\Odev2-RNP_2023280143\\odev2-rnp_2023280143\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC550E0F-462C-4343-B1B4-597B450C1AEA}|Odev2-RNP_2023280143\\Odev2-RNP_2023280143.csproj|solutionrelative:odev2-rnp_2023280143\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC550E0F-462C-4343-B1B4-597B450C1AEA}|Odev2-RNP_2023280143\\Odev2-RNP_2023280143.csproj|C:\\Users\\ahmetali\\source\\repos\\Odev2-RNP_2023280143\\odev2-rnp_2023280143\\stack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC550E0F-462C-4343-B1B4-597B450C1AEA}|Odev2-RNP_2023280143\\Odev2-RNP_2023280143.csproj|solutionrelative:odev2-rnp_2023280143\\stack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC550E0F-462C-4343-B1B4-597B450C1AEA}|Odev2-RNP_2023280143\\Odev2-RNP_2023280143.csproj|C:\\Users\\ahmetali\\source\\repos\\Odev2-RNP_2023280143\\odev2-rnp_2023280143\\topla.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC550E0F-462C-4343-B1B4-597B450C1AEA}|Odev2-RNP_2023280143\\Odev2-RNP_2023280143.csproj|solutionrelative:odev2-rnp_2023280143\\topla.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC550E0F-462C-4343-B1B4-597B450C1AEA}|Odev2-RNP_2023280143\\Odev2-RNP_2023280143.csproj|C:\\Users\\ahmetali\\source\\repos\\Odev2-RNP_2023280143\\odev2-rnp_2023280143\\operand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC550E0F-462C-4343-B1B4-597B450C1AEA}|Odev2-RNP_2023280143\\Odev2-RNP_2023280143.csproj|solutionrelative:odev2-rnp_2023280143\\operand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC550E0F-462C-4343-B1B4-597B450C1AEA}|Odev2-RNP_2023280143\\Odev2-RNP_2023280143.csproj|C:\\Users\\ahmetali\\source\\repos\\Odev2-RNP_2023280143\\odev2-rnp_2023280143\\operator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC550E0F-462C-4343-B1B4-597B450C1AEA}|Odev2-RNP_2023280143\\Odev2-RNP_2023280143.csproj|solutionrelative:odev2-rnp_2023280143\\operator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC550E0F-462C-4343-B1B4-597B450C1AEA}|Odev2-RNP_2023280143\\Odev2-RNP_2023280143.csproj|C:\\Users\\ahmetali\\source\\repos\\Odev2-RNP_2023280143\\odev2-rnp_2023280143\\bol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC550E0F-462C-4343-B1B4-597B450C1AEA}|Odev2-RNP_2023280143\\Odev2-RNP_2023280143.csproj|solutionrelative:odev2-rnp_2023280143\\bol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC550E0F-462C-4343-B1B4-597B450C1AEA}|Odev2-RNP_2023280143\\Odev2-RNP_2023280143.csproj|C:\\Users\\ahmetali\\source\\repos\\Odev2-RNP_2023280143\\odev2-rnp_2023280143\\carp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC550E0F-462C-4343-B1B4-597B450C1AEA}|Odev2-RNP_2023280143\\Odev2-RNP_2023280143.csproj|solutionrelative:odev2-rnp_2023280143\\carp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC550E0F-462C-4343-B1B4-597B450C1AEA}|Odev2-RNP_2023280143\\Odev2-RNP_2023280143.csproj|C:\\Users\\ahmetali\\source\\repos\\Odev2-RNP_2023280143\\odev2-rnp_2023280143\\cikar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC550E0F-462C-4343-B1B4-597B450C1AEA}|Odev2-RNP_2023280143\\Odev2-RNP_2023280143.csproj|solutionrelative:odev2-rnp_2023280143\\cikar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ahmetali\\source\\repos\\Odev2-RNP_2023280143\\Odev2-RNP_2023280143\\Program.cs",
+              "RelativeDocumentMoniker": "Odev2-RNP_2023280143\\Program.cs",
+              "ToolTip": "C:\\Users\\ahmetali\\source\\repos\\Odev2-RNP_2023280143\\Odev2-RNP_2023280143\\Program.cs",
+              "RelativeToolTip": "Odev2-RNP_2023280143\\Program.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAAABAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T20:45:19.64Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CalculatorGui.cs",
+              "DocumentMoniker": "C:\\Users\\ahmetali\\source\\repos\\Odev2-RNP_2023280143\\Odev2-RNP_2023280143\\CalculatorGui.cs",
+              "RelativeDocumentMoniker": "Odev2-RNP_2023280143\\CalculatorGui.cs",
+              "ToolTip": "C:\\Users\\ahmetali\\source\\repos\\Odev2-RNP_2023280143\\Odev2-RNP_2023280143\\CalculatorGui.cs",
+              "RelativeToolTip": "Odev2-RNP_2023280143\\CalculatorGui.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwCAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T20:33:25.33Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Calculator.cs",
+              "DocumentMoniker": "C:\\Users\\ahmetali\\source\\repos\\Odev2-RNP_2023280143\\Odev2-RNP_2023280143\\Calculator.cs",
+              "RelativeDocumentMoniker": "Odev2-RNP_2023280143\\Calculator.cs",
+              "ToolTip": "C:\\Users\\ahmetali\\source\\repos\\Odev2-RNP_2023280143\\Odev2-RNP_2023280143\\Calculator.cs",
+              "RelativeToolTip": "Odev2-RNP_2023280143\\Calculator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T20:32:39.391Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Stack.cs",
+              "DocumentMoniker": "C:\\Users\\ahmetali\\source\\repos\\Odev2-RNP_2023280143\\Odev2-RNP_2023280143\\Stack.cs",
+              "RelativeDocumentMoniker": "Odev2-RNP_2023280143\\Stack.cs",
+              "ToolTip": "C:\\Users\\ahmetali\\source\\repos\\Odev2-RNP_2023280143\\Odev2-RNP_2023280143\\Stack.cs",
+              "RelativeToolTip": "Odev2-RNP_2023280143\\Stack.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAwwBoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T20:31:56.332Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Cikar.cs",
+              "DocumentMoniker": "C:\\Users\\ahmetali\\source\\repos\\Odev2-RNP_2023280143\\Odev2-RNP_2023280143\\Cikar.cs",
+              "RelativeDocumentMoniker": "Odev2-RNP_2023280143\\Cikar.cs",
+              "ToolTip": "C:\\Users\\ahmetali\\source\\repos\\Odev2-RNP_2023280143\\Odev2-RNP_2023280143\\Cikar.cs",
+              "RelativeToolTip": "Odev2-RNP_2023280143\\Cikar.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T20:30:14.242Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Carp.cs",
+              "DocumentMoniker": "C:\\Users\\ahmetali\\source\\repos\\Odev2-RNP_2023280143\\Odev2-RNP_2023280143\\Carp.cs",
+              "RelativeDocumentMoniker": "Odev2-RNP_2023280143\\Carp.cs",
+              "ToolTip": "C:\\Users\\ahmetali\\source\\repos\\Odev2-RNP_2023280143\\Odev2-RNP_2023280143\\Carp.cs",
+              "RelativeToolTip": "Odev2-RNP_2023280143\\Carp.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAwwBYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T20:29:44.988Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Bol.cs",
+              "DocumentMoniker": "C:\\Users\\ahmetali\\source\\repos\\Odev2-RNP_2023280143\\Odev2-RNP_2023280143\\Bol.cs",
+              "RelativeDocumentMoniker": "Odev2-RNP_2023280143\\Bol.cs",
+              "ToolTip": "C:\\Users\\ahmetali\\source\\repos\\Odev2-RNP_2023280143\\Odev2-RNP_2023280143\\Bol.cs",
+              "RelativeToolTip": "Odev2-RNP_2023280143\\Bol.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAowBwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T20:29:14.716Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Topla.cs",
+              "DocumentMoniker": "C:\\Users\\ahmetali\\source\\repos\\Odev2-RNP_2023280143\\Odev2-RNP_2023280143\\Topla.cs",
+              "RelativeDocumentMoniker": "Odev2-RNP_2023280143\\Topla.cs",
+              "ToolTip": "C:\\Users\\ahmetali\\source\\repos\\Odev2-RNP_2023280143\\Odev2-RNP_2023280143\\Topla.cs",
+              "RelativeToolTip": "Odev2-RNP_2023280143\\Topla.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAwwBYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T20:28:44.159Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Operand.cs",
+              "DocumentMoniker": "C:\\Users\\ahmetali\\source\\repos\\Odev2-RNP_2023280143\\Odev2-RNP_2023280143\\Operand.cs",
+              "RelativeDocumentMoniker": "Odev2-RNP_2023280143\\Operand.cs",
+              "ToolTip": "C:\\Users\\ahmetali\\source\\repos\\Odev2-RNP_2023280143\\Odev2-RNP_2023280143\\Operand.cs",
+              "RelativeToolTip": "Odev2-RNP_2023280143\\Operand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T20:28:12.873Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Operator.cs",
+              "DocumentMoniker": "C:\\Users\\ahmetali\\source\\repos\\Odev2-RNP_2023280143\\Odev2-RNP_2023280143\\Operator.cs",
+              "RelativeDocumentMoniker": "Odev2-RNP_2023280143\\Operator.cs",
+              "ToolTip": "C:\\Users\\ahmetali\\source\\repos\\Odev2-RNP_2023280143\\Odev2-RNP_2023280143\\Operator.cs",
+              "RelativeToolTip": "Odev2-RNP_2023280143\\Operator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T20:26:58.258Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
