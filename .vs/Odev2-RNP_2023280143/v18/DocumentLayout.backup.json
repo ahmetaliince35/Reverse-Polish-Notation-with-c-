@@ -1,0 +1,190 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ahmetali\\Documents\\\u00C7al\u0131\u015Ft\u0131\u011F\u0131m Projeler\\Odev2-RNP_2023280143\\Odev2-RNP_2023280143\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BC550E0F-462C-4343-B1B4-597B450C1AEA}|Odev2-RNP_2023280143\\Odev2-RNP_2023280143.csproj|c:\\users\\ahmetali\\documents\\\u00E7al\u0131\u015Ft\u0131\u011F\u0131m projeler\\odev2-rnp_2023280143\\odev2-rnp_2023280143\\odev2-rnp_2023280143\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC550E0F-462C-4343-B1B4-597B450C1AEA}|Odev2-RNP_2023280143\\Odev2-RNP_2023280143.csproj|solutionrelative:odev2-rnp_2023280143\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC550E0F-462C-4343-B1B4-597B450C1AEA}|Odev2-RNP_2023280143\\Odev2-RNP_2023280143.csproj|C:\\Users\\ahmetali\\Documents\\\u00C7al\u0131\u015Ft\u0131\u011F\u0131m Projeler\\Odev2-RNP_2023280143\\Odev2-RNP_2023280143\\odev2-rnp_2023280143\\stack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC550E0F-462C-4343-B1B4-597B450C1AEA}|Odev2-RNP_2023280143\\Odev2-RNP_2023280143.csproj|solutionrelative:odev2-rnp_2023280143\\stack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC550E0F-462C-4343-B1B4-597B450C1AEA}|Odev2-RNP_2023280143\\Odev2-RNP_2023280143.csproj|C:\\Users\\ahmetali\\Documents\\\u00C7al\u0131\u015Ft\u0131\u011F\u0131m Projeler\\Odev2-RNP_2023280143\\Odev2-RNP_2023280143\\odev2-rnp_2023280143\\topla.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC550E0F-462C-4343-B1B4-597B450C1AEA}|Odev2-RNP_2023280143\\Odev2-RNP_2023280143.csproj|solutionrelative:odev2-rnp_2023280143\\topla.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC550E0F-462C-4343-B1B4-597B450C1AEA}|Odev2-RNP_2023280143\\Odev2-RNP_2023280143.csproj|C:\\Users\\ahmetali\\Documents\\\u00C7al\u0131\u015Ft\u0131\u011F\u0131m Projeler\\Odev2-RNP_2023280143\\Odev2-RNP_2023280143\\odev2-rnp_2023280143\\calculatorgui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC550E0F-462C-4343-B1B4-597B450C1AEA}|Odev2-RNP_2023280143\\Odev2-RNP_2023280143.csproj|solutionrelative:odev2-rnp_2023280143\\calculatorgui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC550E0F-462C-4343-B1B4-597B450C1AEA}|Odev2-RNP_2023280143\\Odev2-RNP_2023280143.csproj|C:\\Users\\ahmetali\\Documents\\\u00C7al\u0131\u015Ft\u0131\u011F\u0131m Projeler\\Odev2-RNP_2023280143\\Odev2-RNP_2023280143\\odev2-rnp_2023280143\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC550E0F-462C-4343-B1B4-597B450C1AEA}|Odev2-RNP_2023280143\\Odev2-RNP_2023280143.csproj|solutionrelative:odev2-rnp_2023280143\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC550E0F-462C-4343-B1B4-597B450C1AEA}|Odev2-RNP_2023280143\\Odev2-RNP_2023280143.csproj|C:\\Users\\ahmetali\\Documents\\\u00C7al\u0131\u015Ft\u0131\u011F\u0131m Projeler\\Odev2-RNP_2023280143\\Odev2-RNP_2023280143\\odev2-rnp_2023280143\\bol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC550E0F-462C-4343-B1B4-597B450C1AEA}|Odev2-RNP_2023280143\\Odev2-RNP_2023280143.csproj|solutionrelative:odev2-rnp_2023280143\\bol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC550E0F-462C-4343-B1B4-597B450C1AEA}|Odev2-RNP_2023280143\\Odev2-RNP_2023280143.csproj|C:\\Users\\ahmetali\\Documents\\\u00C7al\u0131\u015Ft\u0131\u011F\u0131m Projeler\\Odev2-RNP_2023280143\\Odev2-RNP_2023280143\\odev2-rnp_2023280143\\carp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC550E0F-462C-4343-B1B4-597B450C1AEA}|Odev2-RNP_2023280143\\Odev2-RNP_2023280143.csproj|solutionrelative:odev2-rnp_2023280143\\carp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC550E0F-462C-4343-B1B4-597B450C1AEA}|Odev2-RNP_2023280143\\Odev2-RNP_2023280143.csproj|C:\\Users\\ahmetali\\Documents\\\u00C7al\u0131\u015Ft\u0131\u011F\u0131m Projeler\\Odev2-RNP_2023280143\\Odev2-RNP_2023280143\\odev2-rnp_2023280143\\cikar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC550E0F-462C-4343-B1B4-597B450C1AEA}|Odev2-RNP_2023280143\\Odev2-RNP_2023280143.csproj|solutionrelative:odev2-rnp_2023280143\\cikar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC550E0F-462C-4343-B1B4-597B450C1AEA}|Odev2-RNP_2023280143\\Odev2-RNP_2023280143.csproj|C:\\Users\\ahmetali\\Documents\\\u00C7al\u0131\u015Ft\u0131\u011F\u0131m Projeler\\Odev2-RNP_2023280143\\Odev2-RNP_2023280143\\odev2-rnp_2023280143\\operand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC550E0F-462C-4343-B1B4-597B450C1AEA}|Odev2-RNP_2023280143\\Odev2-RNP_2023280143.csproj|solutionrelative:odev2-rnp_2023280143\\operand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC550E0F-462C-4343-B1B4-597B450C1AEA}|Odev2-RNP_2023280143\\Odev2-RNP_2023280143.csproj|C:\\Users\\ahmetali\\Documents\\\u00C7al\u0131\u015Ft\u0131\u011F\u0131m Projeler\\Odev2-RNP_2023280143\\Odev2-RNP_2023280143\\odev2-rnp_2023280143\\operator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC550E0F-462C-4343-B1B4-597B450C1AEA}|Odev2-RNP_2023280143\\Odev2-RNP_2023280143.csproj|solutionrelative:odev2-rnp_2023280143\\operator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ahmetali\\Documents\\\u00C7al\u0131\u015Ft\u0131\u011F\u0131m Projeler\\Odev2-RNP_2023280143\\Odev2-RNP_2023280143\\Odev2-RNP_2023280143\\Program.cs",
+              "RelativeDocumentMoniker": "Odev2-RNP_2023280143\\Program.cs",
+              "ToolTip": "C:\\Users\\ahmetali\\Documents\\\u00C7al\u0131\u015Ft\u0131\u011F\u0131m Projeler\\Odev2-RNP_2023280143\\Odev2-RNP_2023280143\\Odev2-RNP_2023280143\\Program.cs",
+              "RelativeToolTip": "Odev2-RNP_2023280143\\Program.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAiwCcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-22T12:04:35.334Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Cikar.cs",
+              "DocumentMoniker": "C:\\Users\\ahmetali\\Documents\\\u00C7al\u0131\u015Ft\u0131\u011F\u0131m Projeler\\Odev2-RNP_2023280143\\Odev2-RNP_2023280143\\Odev2-RNP_2023280143\\Cikar.cs",
+              "RelativeDocumentMoniker": "Odev2-RNP_2023280143\\Cikar.cs",
+              "ToolTip": "C:\\Users\\ahmetali\\Documents\\\u00C7al\u0131\u015Ft\u0131\u011F\u0131m Projeler\\Odev2-RNP_2023280143\\Odev2-RNP_2023280143\\Odev2-RNP_2023280143\\Cikar.cs",
+              "RelativeToolTip": "Odev2-RNP_2023280143\\Cikar.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAIwBkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-22T11:59:28.199Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Carp.cs",
+              "DocumentMoniker": "C:\\Users\\ahmetali\\Documents\\\u00C7al\u0131\u015Ft\u0131\u011F\u0131m Projeler\\Odev2-RNP_2023280143\\Odev2-RNP_2023280143\\Odev2-RNP_2023280143\\Carp.cs",
+              "RelativeDocumentMoniker": "Odev2-RNP_2023280143\\Carp.cs",
+              "ToolTip": "C:\\Users\\ahmetali\\Documents\\\u00C7al\u0131\u015Ft\u0131\u011F\u0131m Projeler\\Odev2-RNP_2023280143\\Odev2-RNP_2023280143\\Odev2-RNP_2023280143\\Carp.cs",
+              "RelativeToolTip": "Odev2-RNP_2023280143\\Carp.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAIwBcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-22T11:59:28.2Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CalculatorGui.cs",
+              "DocumentMoniker": "C:\\Users\\ahmetali\\Documents\\\u00C7al\u0131\u015Ft\u0131\u011F\u0131m Projeler\\Odev2-RNP_2023280143\\Odev2-RNP_2023280143\\Odev2-RNP_2023280143\\CalculatorGui.cs",
+              "RelativeDocumentMoniker": "Odev2-RNP_2023280143\\CalculatorGui.cs",
+              "ToolTip": "C:\\Users\\ahmetali\\Documents\\\u00C7al\u0131\u015Ft\u0131\u011F\u0131m Projeler\\Odev2-RNP_2023280143\\Odev2-RNP_2023280143\\Odev2-RNP_2023280143\\CalculatorGui.cs",
+              "RelativeToolTip": "Odev2-RNP_2023280143\\CalculatorGui.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-22T11:59:28.195Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Calculator.cs",
+              "DocumentMoniker": "C:\\Users\\ahmetali\\Documents\\\u00C7al\u0131\u015Ft\u0131\u011F\u0131m Projeler\\Odev2-RNP_2023280143\\Odev2-RNP_2023280143\\Odev2-RNP_2023280143\\Calculator.cs",
+              "RelativeDocumentMoniker": "Odev2-RNP_2023280143\\Calculator.cs",
+              "ToolTip": "C:\\Users\\ahmetali\\Documents\\\u00C7al\u0131\u015Ft\u0131\u011F\u0131m Projeler\\Odev2-RNP_2023280143\\Odev2-RNP_2023280143\\Odev2-RNP_2023280143\\Calculator.cs",
+              "RelativeToolTip": "Odev2-RNP_2023280143\\Calculator.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAAACIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-22T11:59:28.197Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Bol.cs",
+              "DocumentMoniker": "C:\\Users\\ahmetali\\Documents\\\u00C7al\u0131\u015Ft\u0131\u011F\u0131m Projeler\\Odev2-RNP_2023280143\\Odev2-RNP_2023280143\\Odev2-RNP_2023280143\\Bol.cs",
+              "RelativeDocumentMoniker": "Odev2-RNP_2023280143\\Bol.cs",
+              "ToolTip": "C:\\Users\\ahmetali\\Documents\\\u00C7al\u0131\u015Ft\u0131\u011F\u0131m Projeler\\Odev2-RNP_2023280143\\Odev2-RNP_2023280143\\Odev2-RNP_2023280143\\Bol.cs",
+              "RelativeToolTip": "Odev2-RNP_2023280143\\Bol.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-22T11:59:28.201Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Stack.cs",
+              "DocumentMoniker": "C:\\Users\\ahmetali\\Documents\\\u00C7al\u0131\u015Ft\u0131\u011F\u0131m Projeler\\Odev2-RNP_2023280143\\Odev2-RNP_2023280143\\Odev2-RNP_2023280143\\Stack.cs",
+              "RelativeDocumentMoniker": "Odev2-RNP_2023280143\\Stack.cs",
+              "ToolTip": "C:\\Users\\ahmetali\\Documents\\\u00C7al\u0131\u015Ft\u0131\u011F\u0131m Projeler\\Odev2-RNP_2023280143\\Odev2-RNP_2023280143\\Odev2-RNP_2023280143\\Stack.cs",
+              "RelativeToolTip": "Odev2-RNP_2023280143\\Stack.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-22T11:59:28.198Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Topla.cs",
+              "DocumentMoniker": "C:\\Users\\ahmetali\\Documents\\\u00C7al\u0131\u015Ft\u0131\u011F\u0131m Projeler\\Odev2-RNP_2023280143\\Odev2-RNP_2023280143\\Odev2-RNP_2023280143\\Topla.cs",
+              "RelativeDocumentMoniker": "Odev2-RNP_2023280143\\Topla.cs",
+              "ToolTip": "C:\\Users\\ahmetali\\Documents\\\u00C7al\u0131\u015Ft\u0131\u011F\u0131m Projeler\\Odev2-RNP_2023280143\\Odev2-RNP_2023280143\\Odev2-RNP_2023280143\\Topla.cs",
+              "RelativeToolTip": "Odev2-RNP_2023280143\\Topla.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAABYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-22T11:59:28.202Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Operand.cs",
+              "DocumentMoniker": "C:\\Users\\ahmetali\\Documents\\\u00C7al\u0131\u015Ft\u0131\u011F\u0131m Projeler\\Odev2-RNP_2023280143\\Odev2-RNP_2023280143\\Odev2-RNP_2023280143\\Operand.cs",
+              "RelativeDocumentMoniker": "Odev2-RNP_2023280143\\Operand.cs",
+              "ToolTip": "C:\\Users\\ahmetali\\Documents\\\u00C7al\u0131\u015Ft\u0131\u011F\u0131m Projeler\\Odev2-RNP_2023280143\\Odev2-RNP_2023280143\\Odev2-RNP_2023280143\\Operand.cs",
+              "RelativeToolTip": "Odev2-RNP_2023280143\\Operand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-22T11:59:28.203Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Operator.cs",
+              "DocumentMoniker": "C:\\Users\\ahmetali\\Documents\\\u00C7al\u0131\u015Ft\u0131\u011F\u0131m Projeler\\Odev2-RNP_2023280143\\Odev2-RNP_2023280143\\Odev2-RNP_2023280143\\Operator.cs",
+              "RelativeDocumentMoniker": "Odev2-RNP_2023280143\\Operator.cs",
+              "ToolTip": "C:\\Users\\ahmetali\\Documents\\\u00C7al\u0131\u015Ft\u0131\u011F\u0131m Projeler\\Odev2-RNP_2023280143\\Odev2-RNP_2023280143\\Odev2-RNP_2023280143\\Operator.cs",
+              "RelativeToolTip": "Odev2-RNP_2023280143\\Operator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-22T11:59:28.204Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

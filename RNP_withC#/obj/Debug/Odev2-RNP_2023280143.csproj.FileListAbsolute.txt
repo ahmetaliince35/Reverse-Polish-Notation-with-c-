@@ -1,0 +1,14 @@
+C:\Users\ahmetali\source\repos\Odev2-RNP_2023280143\Odev2-RNP_2023280143\bin\Debug\Odev2-RNP_2023280143.exe.config
+C:\Users\ahmetali\source\repos\Odev2-RNP_2023280143\Odev2-RNP_2023280143\bin\Debug\Odev2-RNP_2023280143.exe
+C:\Users\ahmetali\source\repos\Odev2-RNP_2023280143\Odev2-RNP_2023280143\bin\Debug\Odev2-RNP_2023280143.pdb
+C:\Users\ahmetali\source\repos\Odev2-RNP_2023280143\Odev2-RNP_2023280143\obj\Debug\Odev2-RNP_2023280143.csproj.AssemblyReference.cache
+C:\Users\ahmetali\source\repos\Odev2-RNP_2023280143\Odev2-RNP_2023280143\obj\Debug\Odev2-RNP_2023280143.csproj.CoreCompileInputs.cache
+C:\Users\ahmetali\source\repos\Odev2-RNP_2023280143\Odev2-RNP_2023280143\obj\Debug\Odev2-RNP_2023280143.exe
+C:\Users\ahmetali\source\repos\Odev2-RNP_2023280143\Odev2-RNP_2023280143\obj\Debug\Odev2-RNP_2023280143.pdb
+C:\Users\ahmetali\Documents\Çalıştığım Projeler\Odev2-RNP_2023280143\Odev2-RNP_2023280143\Odev2-RNP_2023280143\bin\Debug\Odev2-RNP_2023280143.exe.config
+C:\Users\ahmetali\Documents\Çalıştığım Projeler\Odev2-RNP_2023280143\Odev2-RNP_2023280143\Odev2-RNP_2023280143\bin\Debug\Odev2-RNP_2023280143.exe
+C:\Users\ahmetali\Documents\Çalıştığım Projeler\Odev2-RNP_2023280143\Odev2-RNP_2023280143\Odev2-RNP_2023280143\bin\Debug\Odev2-RNP_2023280143.pdb
+C:\Users\ahmetali\Documents\Çalıştığım Projeler\Odev2-RNP_2023280143\Odev2-RNP_2023280143\Odev2-RNP_2023280143\obj\Debug\Odev2-RNP_2023280143.csproj.AssemblyReference.cache
+C:\Users\ahmetali\Documents\Çalıştığım Projeler\Odev2-RNP_2023280143\Odev2-RNP_2023280143\Odev2-RNP_2023280143\obj\Debug\Odev2-RNP_2023280143.csproj.CoreCompileInputs.cache
+C:\Users\ahmetali\Documents\Çalıştığım Projeler\Odev2-RNP_2023280143\Odev2-RNP_2023280143\Odev2-RNP_2023280143\obj\Debug\Odev2-RNP_2023280143.exe
+C:\Users\ahmetali\Documents\Çalıştığım Projeler\Odev2-RNP_2023280143\Odev2-RNP_2023280143\Odev2-RNP_2023280143\obj\Debug\Odev2-RNP_2023280143.pdb

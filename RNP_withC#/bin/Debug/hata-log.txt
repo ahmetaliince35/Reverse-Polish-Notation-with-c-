@@ -1,0 +1,38 @@
+[16.06.2025 23:50:20]Sayı girilmedi.
+[16.06.2025 23:50:23]Toplama yapmak için yeterli sayı yok
+[16.06.2025 23:50:26]Çıkarma yapmak için yeterli sayı yok
+[16.06.2025 23:50:28]Bölme yapmak için yeterli sayı yok
+[16.06.2025 23:50:30]Çarpma yapmak için yeterli sayı yok
+[16.06.2025 23:50:34]Sıfıra bölme işlemi yapılamaz.
+[16.06.2025 23:50:58]Stack kapasiteine ulaşıldı
+[16.06.2025 23:51:13]Sayı girilmedi.
+[16.06.2025 23:51:57]Toplama yapmak için yeterli sayı yok
+[16.06.2025 23:52:01]Sayıyı fazla girdiniz.
+[16.06.2025 23:52:04]Toplama yapmak için yeterli sayı yok
+[16.06.2025 23:52:09]Tanımsız Operatör
+[16.06.2025 23:52:36]Sıfıra bölme işlemi yapılamaz.
+[16.06.2025 23:52:39]Tanımsız Operatör
+[16.06.2025 23:52:47]Tanımsız Operatör
+[16.06.2025 23:52:54]Sayı girilmedi.
+[16.06.2025 23:53:44]Sayı girilmedi.
+[22.01.2026 15:05:42]Tanımsız Operatör
+[22.01.2026 15:05:50]Tanımsız Operatör
+[22.01.2026 15:06:24]Sayı girilmedi.
+[22.01.2026 15:07:08]Sayı girilmedi.
+[22.01.2026 15:07:37]Sayı girilmedi.
+[22.01.2026 15:07:48]Sayıyı fazla girdiniz.
+[22.01.2026 15:08:05]Sayı girilmedi.
+[22.01.2026 15:08:17]Bölme yapmak için yeterli sayı yok
+[22.01.2026 15:08:30]Sayı girilmedi.
+[22.01.2026 15:09:43]Sayı girilmedi.
+[22.01.2026 15:09:50]Sayı girilmedi.
+[22.01.2026 15:10:21]Tanımsız Operatör
+[22.01.2026 15:13:32]Sayı girilmedi.
+[22.01.2026 15:13:41]Sayı girilmedi.
+[22.01.2026 15:14:03]Sıfıra bölme işlemi yapılamaz.
+[22.01.2026 15:14:21]Sayı girilmedi.
+[22.01.2026 15:14:32]Sayı girilmedi.
+[22.01.2026 15:14:55]Sayı girilmedi.
+[22.01.2026 15:15:09]Sayı girilmedi.
+[22.01.2026 15:16:11]Sayı girilmedi.
+[22.01.2026 15:16:31]Sıfıra bölme işlemi yapılamaz.
